@@ -25,8 +25,8 @@ Hasil Browser
 
 - Pasien 
 
-![image](https://user-images.githubusercontent.com/101658076/174806766-5510dfe4-0192-4d24-8e6d-3a08b8c35f05.png)
 ![image](https://user-images.githubusercontent.com/101658076/174806743-95b98a3f-0fe5-404b-81ee-c51f91003e0a.png)
+![image](https://user-images.githubusercontent.com/101658076/174806766-5510dfe4-0192-4d24-8e6d-3a08b8c35f05.png)
 
 Hasil Browser
 
@@ -74,8 +74,8 @@ Hasil Browser
 ![image](https://user-images.githubusercontent.com/101658076/174807953-6de30b25-7622-4168-b22a-c3a5688660bd.png)
 ![image](https://user-images.githubusercontent.com/101658076/174807988-58e8d3e5-4026-42e6-aa7a-f4b103b32e66.png)
 ![image](https://user-images.githubusercontent.com/101658076/174808025-cdd71103-460d-40e7-8136-a15e09fb0146.png)
-![image](https://user-images.githubusercontent.com/101658076/174808077-fadb83f0-e37d-4843-9588-dcc4090efa61.png)
 ![image](https://user-images.githubusercontent.com/101658076/174808053-4df41b33-5970-4899-a208-cc8f3bc9d955.png)
+![image](https://user-images.githubusercontent.com/101658076/174808077-fadb83f0-e37d-4843-9588-dcc4090efa61.png)
 ![image](https://user-images.githubusercontent.com/101658076/174808111-170b60fb-710b-4319-acaa-acb7a233a6e4.png)
 
 Hasil Browser
